@@ -1,0 +1,13 @@
+{
+  "README.md": "7f3fdd135689f187c90aad6d110913cb159465d653396bd17c58c6a0b6ec4e68",
+  "casmi_corrected_denovo.ipynb": "0f1917af03bfffb607620a316c98d9e5d1afd62cd68ed7432fb0c076c47fe3ce",
+  "casmi_retrieval.py": "278333590117f4dc3b7876f8b0434c97fc847dd53413f07dbbc455c26b88ec52",
+  "casmi_retrieval_submission.ipynb": "fc561a5211456925e39033b8bd3586d2d59de6cc64746743dda7cfcd02bbb1cd",
+  "check_overlap.py": "a9ed7745826b8d2526e8428d70a6a96f1c9ea7ed496a8942b463f6b07368a48c",
+  "overlap_audit.csv": "973d9b693b7f3a45e8dedcd20926aee80cb4da17f3dcf5133154027d1954aaee",
+  "overlap_report.json": "019af262885844fa18cacc0b1093e0e36e942e74e23cecaae062b1cc643cca73",
+  "retrieval_audit.csv": "7be0bc7fd2d685b958a070aaf0572d1178a6cfc9acf6608697d175f5bcab323d",
+  "run_report.json": "d05559357a2b49ed9b6c31c27307eb89d34570ee48111cd39aec1c06bd47605c",
+  "submission.csv": "321e9df4e675d665956fdddb01da1b0900e1795222c7450b1dc7b07a7d230081",
+  "test_neural_core.py": "71e07b6c82f3f9b7e87714046a769826bc7c057d298b05c5eb9babfb9d8634d0"
+}

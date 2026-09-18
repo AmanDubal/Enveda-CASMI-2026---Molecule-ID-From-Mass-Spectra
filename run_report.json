@@ -1,0 +1,34 @@
+{
+  "method": "Mass-constrained reference-spectrum retrieval; no de novo generation",
+  "molecules": 400,
+  "spectra": 1213,
+  "reference_unique_smiles": 277566,
+  "spectral_comparisons": 854268,
+  "mass_fallback_molecules": 0,
+  "rdkit_version": "2026.03.3",
+  "elapsed_seconds": 313.8105842899997,
+  "validation_mrr25": null,
+  "limitation": "Unscored baseline; structures outside the candidate library cannot be recovered.",
+  "checks": {
+    "csv_rows": 400,
+    "unique_molecule_ids": true,
+    "matches_sample_ids": true,
+    "valid_smiles": true,
+    "max_guesses": 25,
+    "duplicate_canonical_keys": false,
+    "neural_core_cpu_tests_passed": true,
+    "neural_end_to_end_training": false
+  },
+  "supplied_test_overlap": {
+    "matched_processed_spectra": 1213,
+    "total_test_spectra": 1213,
+    "molecules_with_matches": 400,
+    "total_test_molecules": 400,
+    "matched_spectra_top_prediction_consistent": 1213,
+    "ambiguous_spectra": 0,
+    "source_counts": {
+      "enveda-180": 1213
+    },
+    "matching_definition": "Same adduct; precursor within 0.005 Da; processed m/z rounded to 6 decimals and normalized square-root intensity to 8 decimals identical."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "matched_processed_spectra": 1213,
+  "total_test_spectra": 1213,
+  "molecules_with_matches": 400,
+  "total_test_molecules": 400,
+  "matched_spectra_top_prediction_consistent": 1213,
+  "ambiguous_spectra": 0,
+  "source_counts": {
+    "enveda-180": 1213
+  },
+  "matching_definition": "Same adduct; precursor within 0.005 Da; processed m/z rounded to 6 decimals and normalized square-root intensity to 8 decimals identical."
+}
